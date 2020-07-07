@@ -10,4 +10,12 @@ File has 3 functions:
 
 `addToSpecificIndex`
 
-+ plus tests in Jest
+`delete` (delete specific value)
+
+- plus tests in Jest
+
+- Also version in Python
+
+## Queues and Stacks
+
+Python files
